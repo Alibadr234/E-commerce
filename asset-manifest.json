@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.aeb1ca6f.css",
+    "main.js": "./static/js/main.fa9cea47.js",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.ad1782c70927ebc5bc87.ttf",
+    "static/media/grocery-banner.png": "./static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.26b80c8830bebf340211.ttf",
+    "static/media/1.jpg": "./static/media/1.94d84a754d32011e42e7.jpg",
+    "static/media/2.jpg": "./static/media/2.d3a7de324b645ffee97a.jpg",
+    "static/media/grocery-banner-2.jpeg": "./static/media/grocery-banner-2.7a4a78a90acc3d5847cb.jpeg",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.83a538a018a9e44b023a.woff2",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.fdbb558523a380307689.woff2",
+    "static/media/error.svg": "./static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.05fdd87be89f7f8f0a1e.ttf",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.4f6a2dabee9c092d09b9.woff2",
+    "static/media/fa-v4compatibility.ttf": "./static/media/fa-v4compatibility.fa86b3c85e77abbd2ebd.ttf",
+    "static/media/freshcart-logo.svg": "./static/media/freshcart-logo.53f7a424c3aedc30a0fb46dc2278137c.svg",
+    "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.c3ea317a0f10f201597f.woff2",
+    "static/media/slick.svg": "./static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "./static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "./static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "./static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "./index.html",
+    "main.aeb1ca6f.css.map": "./static/css/main.aeb1ca6f.css.map",
+    "main.fa9cea47.js.map": "./static/js/main.fa9cea47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeb1ca6f.css",
+    "static/js/main.fa9cea47.js"
+  ]
+}
